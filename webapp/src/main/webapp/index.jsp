@@ -5,7 +5,7 @@ l<form action="action_page.php">
     <hr>
     <br>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="email" id="email" required>
     <br>
 
